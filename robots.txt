@@ -1,4 +1,4 @@
 # robots.txt  
 User-agent: *
 Disallow: 
-Sitemap: http://www.肖飞.wang/sitemap.xml
+Sitemap: http://et-stack.github.io/sitemap.xml

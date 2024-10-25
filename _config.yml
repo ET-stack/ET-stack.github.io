@@ -67,7 +67,7 @@ ga_domain: https://et-stack.github.io/           # 默认的是 auto, 这里我�
 
 # Code hub settings
 codehub: # 代码仓库
-  - title: Github
+  - title: GitHub
     url: https://github.com/et-stack
 
 
